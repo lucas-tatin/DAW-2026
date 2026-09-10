@@ -30,9 +30,9 @@ main{
     margin-inline: auto;
 }
 
-/***********
+/**********
 * CABEÇALHO
-***********/
+**********/
 body > header {
     background-color: #ffffff;
 }
@@ -218,9 +218,9 @@ section article button {
     margin-right: 1rem;
 }
 
-/**************
+/*************
 * FOOTER
-**************/
+*************/
 footer {
     background-color: var(--text-muted);
     color: var(--bg);
@@ -238,3 +238,4 @@ footer .container {
 /* footer p {
     text-align: center;
 } */
+
